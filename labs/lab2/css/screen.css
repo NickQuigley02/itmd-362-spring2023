@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+  background-color: #C60C30;
+  color: #ffffff;
+}
+input,
+label {
+    margin: 20px 0px 20px 0px;
+    width: 90%;
+	font-size: 15px;
+}
+form {
+  background-color: #002244;
+  margin: 10px 0;
+  text-align: center;
+  list-style: none;
+  color: #B0B7BC;
+  box-sizing: content-box;
+}
+
